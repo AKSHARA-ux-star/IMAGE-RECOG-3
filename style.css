@@ -1,0 +1,15 @@
+#camera,#result{
+    border : 2px solid black;
+    width:350px;
+    height:300px;
+}
+
+body
+{
+    background: linear-gradient(#E1315B 0% ,#FFEC5C 100%);
+}
+
+.p1{
+    background: #00d3d6;
+    border-radius: 5px;
+}
